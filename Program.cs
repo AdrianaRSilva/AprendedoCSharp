@@ -16,7 +16,10 @@ namespace CursoCSharp {
                 {"formantando Numeros -Fundamentos", FormatandoNumero.Executar},
                 {"Conversôs -Fundamentos", Conversoes.Executar},
                 {"Operadores Aritmeticos -Fundamentos", OperadoresAritmeticos.Executar},
-                 {"Operadores Relacionais -Fundamentos", OperadoresRealcionais.Executar},
+                {"Operadores Relacionais -Fundamentos", OperadoresRealcionais.Executar},
+                {"Operadores Lógicos -Fundamentos", OperadoresLogicos.Executar},
+                {"Operadores de Atibuição -Fundamentos", OperadoresDeAtribuicao.Executar},
+                {"Operadores Unários -Fundamentos", OperadoresUnarios.Executar},
 
             });
 
